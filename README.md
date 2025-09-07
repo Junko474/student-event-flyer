@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -67,3 +68,19 @@ export default tseslint.config([
   },
 ])
 ```
+=======
+# student-event-flyer
+北海道学生会主催イベント
+## プロジェクト概要
+学生会のイベント「エスコンフィールド見学ツアー & 懇親会」のチラシ作成用プロジェクトです。  
+Webブラウザで閲覧・編集できるように作っています。
+
+## 使い方
+1. ブラウザで URL を開くとチラシを確認できます。
+2. 編集したい場合は GitHub リポジトリにアクセスして修正し、プッシュしてください。
+3. Netlify と連携していれば、自動で最新ページに反映されます。
+
+## 注意事項
+- 現在は練習公開中です。URL はメンバー以外に共有しないでください。
+- 編集の際は、既存のコード構造を壊さないように注意してください。
+>>>>>>> cf4ee6daf0e9573410abe5e42a780414289f355d
